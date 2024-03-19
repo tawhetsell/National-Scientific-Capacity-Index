@@ -1,3 +1,8 @@
+# Meta-Data ---------------------------------------------------------------
+#Author: Travis A. Whetsell
+#Date: March 19, 2024
+#Title: Developing an Index of National Research Capacity
+
 library(WDI)
 library(vdemdata)
 library(dplyr)
